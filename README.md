@@ -1,2 +1,2 @@
 # Netflix-Colne-Website-Using-HTML5-CSS
-Hello everyone this is the front page and the login page of netflix clone website which contains HTML &amp; CSS basically....This project is only based on HTMl and CSS
+Greetings, everyone! Welcome to the front page and login section of a Netflix clone website, crafted using HTML and CSS. This project exclusively focuses on the integration of HTML and CSS to replicate the renowned streaming platform's interface.
